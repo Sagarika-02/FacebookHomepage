@@ -1,0 +1,41 @@
+@media only screen  and (max-width:860px)
+{
+     .right-div{
+        display: none;
+     }
+
+}
+@media only screen  and (min-width:460px) and (max-width:960px)
+{
+     .left-div{
+        display: none;
+     }
+
+}
+@media only screen  and (min-width:50px) and (max-width:460px)
+{
+     .left-div{
+        display: none;
+     }
+
+}
+@media only screen  and (max-width:412px)
+{
+     .mid-div1,
+     .mid-div3,
+     .mid-div4,
+     .video-screen img,
+     .mid-div1-sec2,
+     .mid-div1-sec1 input,
+     .logo-like-share-comment,
+     .like-share-commet,
+     .profile-con{
+        width: 100vw;
+     }
+     .video-box{
+        flex: auto;
+     }
+
+}
+
+
