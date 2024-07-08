@@ -2,7 +2,6 @@
 
 # Facebook Clone
 
-![Project Image](Assets/facebook2.png)
 
 ## Description
 
