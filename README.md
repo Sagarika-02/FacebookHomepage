@@ -23,8 +23,6 @@ This project is a simplified replica of the Facebook homepage, built using HTML 
 ![Screenshot 1](Assets/facebook2.png)
 ![Screenshot 2](Assets/facebook3.png)
 
-## Usage
-[Visit the Facebook Clone Live](https://aurora-48055f.netlify.app/)
 ## Credits
 
 - Facebook logo image: [Facebook](https://www.facebook.com)
